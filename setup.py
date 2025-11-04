@@ -15,7 +15,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/ivancmonaco/isjsonvalid.git",
-    author="Real Python",
+    author="Ivan Monaco",
     author_email="ivancmonaco@gmail.com",
     license="MIT",
     classifiers=[],
